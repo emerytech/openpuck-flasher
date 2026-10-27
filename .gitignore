@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+*.app
+*.dmg
+*.zip
+*.icns
+
+# macOS
+.DS_Store
